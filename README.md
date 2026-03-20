@@ -1,6 +1,6 @@
 # Google Antigravity Flatpak
 
-**Important: This wrapper is not associated with, supported by, or verified by Google LLC. It is a community package maintained for Flathub. Please direct any issues to the flatpak issue tracker.**
+**Important: This wrapper is not associated with, supported by, or verified by Google LLC. It is a community package. Please direct any issues to the issue tracker.**
 
 Google Antigravity is an agentic development platform that combines a familiar, AI-powered coding experience with a new agent-first interface.
 
